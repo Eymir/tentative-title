@@ -1,4 +1,5 @@
-##The great untitled app development project
+##Explosion Time Calculator
+###(Tentative Title)
 
 Summer project for a couple CS majors trying to learn how to code for Android and iOS. This is a simple app project (nothing fancy) in order for use to learn our way around Android and iOS development. 
 
